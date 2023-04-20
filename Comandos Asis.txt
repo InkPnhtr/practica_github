@@ -17,3 +17,43 @@ $ git commit -m "Readme Nor"
 U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
 $
 
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git add .
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git commit -m "Comm Asis"
+[Norberto 57267c9] Comm Asis
+ 1 file changed, 19 insertions(+)
+ create mode 100644 Comandos Asis.txt
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git status
+On branch Norberto
+nothing to commit, working tree clean
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git push
+fatal: The current branch Norberto has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Norberto
+
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git push https://github.com/InkPnhtr/practica_github.git
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 744 bytes | 744.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'Norberto' on GitHub by visiting:
+remote:      https://github.com/InkPnhtr/practica_github/pull/new/Norberto
+remote:
+To https://github.com/InkPnhtr/practica_github.git
+ * [new branch]      Norberto -> Norberto
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$
