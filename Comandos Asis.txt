@@ -1,0 +1,19 @@
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (main)
+$ git checkout Norberto
+error: pathspec 'Norberto' did not match any file(s) known to git
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (main)
+$ git checkout -b Norberto
+Switched to a new branch 'Norberto'
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git add .
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$ git commit -m "Readme Nor"
+[Norberto 9983da0] Readme Nor
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+U@A MINGW32 /d/Argentina Programa4/JavaBkEnd/Enc12/practica_github (Norberto)
+$
+
